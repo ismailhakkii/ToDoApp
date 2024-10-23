@@ -1,1 +1,2 @@
-veri yapýlarý
+veri yapýlarý çalýþýlacak|False|2024-10-25|Yüksek
+a|True|2024-10-26|Yüksek

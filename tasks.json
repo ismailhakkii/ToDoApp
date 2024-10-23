@@ -1,0 +1,20 @@
+[
+    {
+        "task": "veri yapıları",
+        "completed": false,
+        "deadline": "2024-10-25",
+        "priority": "Yüksek"
+    },
+    {
+        "task": "Yazılım Mühendisliği",
+        "completed": false,
+        "deadline": "2024-10-25",
+        "priority": "Yüksek"
+    },
+    {
+        "task": "Nesne Yönelimli Programlama",
+        "completed": false,
+        "deadline": "2024-10-25",
+        "priority": "Orta"
+    }
+]
