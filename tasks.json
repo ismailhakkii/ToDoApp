@@ -7,8 +7,14 @@
     },
     {
         "task": "Yazılım Mühendisliği",
-        "completed": false,
+        "completed": true,
         "deadline": "2024-10-25",
+        "priority": "Yüksek"
+    },
+    {
+        "task": "saaa",
+        "completed": false,
+        "deadline": "2024-11-04",
         "priority": "Yüksek"
     },
     {

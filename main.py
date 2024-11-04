@@ -208,7 +208,7 @@ class TodoApp:
         self.tasks.sort(key=lambda x: priority_order.get(x["priority"], 4))
         self.save_tasks()
         self.refresh_treeview()
-        messagebox.showinfo("Sıralandı", "Görevler önceliğe göre sıralandı.")
+        messagebox.showinfo("Sıralandı", "Görevler önem değerine göre sıralandı.")
 
     def filter_tasks(self):
         self.refresh_treeview()
